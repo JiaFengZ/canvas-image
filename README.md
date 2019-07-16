@@ -11,3 +11,9 @@
 
 * [随机位置/颜色/大小点图](./src/grid-picture.js)  
 <img src="./images/colorful_point.png" width = "400" height = "400"/>
+
+* [随机字母图](./src/grid-charactor.js)
+<img src="./images/grid-charactor" width = "400" height = "400"/>
+
+* [旋转字母图](./src/grid-rotate-charactor.js)
+<img src="./images/rotate-charactor" width = "400" height = "400"/>
